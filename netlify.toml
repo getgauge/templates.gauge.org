@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://d1a8b95gayei56.cloudfront.net/:splat"
+  status = 200
